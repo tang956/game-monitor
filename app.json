@@ -29,9 +29,10 @@
         "READ_EXTERNAL_STORAGE"
       ]
     },
+    "plugins": [],
     "extra": {
       "eas": {
-        "projectId": "your-project-id"
+        "projectId": "82267b63-30b5-42b2-9109-84d31d481eb3"
       }
     }
   }
